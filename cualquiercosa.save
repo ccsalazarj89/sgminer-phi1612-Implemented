@@ -1,0 +1,23 @@
+sh amd-driver-installersh amd
+-
+driver
+-
+installer
+-
+x86.x86_64.run 
+--
+u
+ninstallsh amd
+-
+driver
+-
+installer
+-
+x86.x86_64.run 
+--
+u
+ninstall-
+x86.x86_64.run 
+--
+u
+ninstall
